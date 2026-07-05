@@ -44,7 +44,6 @@ export default function SimpleSlider() {
                 <img
                   className="  p-10 "
                   src={item.images}
-                  style={{ width: "40vw", height: "45vw" }}
                   alt=""
                 />
               </div>
